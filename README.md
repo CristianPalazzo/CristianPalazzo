@@ -1,6 +1,6 @@
 # 💫 About Me:
 #### !Hola, soy Cristian<br>
-- Tengo 24 años y soy un estudiante de la carrera de Ingeniería en Sistemas de Información en la UTN<br>
+- Tengo 25 años y soy un estudiante de la carrera de Ingeniería en Sistemas de Información en la UTN<br>
 - Soy desarrollador BackEnd en Java, con la utilización del framework SpringBoot <br>
 - Me encanta aprender cosas nuevas, tanto en el ámbito la programación como en el ámbito de las habilidades blandas <br>
 
